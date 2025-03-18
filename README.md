@@ -20,7 +20,7 @@
 <h3 align="left">Connect with me!</h3>
 
 [![Telegram](https://img.shields.io/badge/-Telegram-000?style=for-the-badge&logo=telegram&color:FFF)](https://t.me/cascoh)
-[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=gmail&logoColor=FF00F6&color:FFF)](mailto:matteusgn@gmail.com)
+[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=gmail&logoColor=FF00F6&color:FFF)](mailto:)
 
 <h3 align="left">My Stack 🔥</h3>
 
